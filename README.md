@@ -38,7 +38,7 @@ For the linear vector machine I tested both the split in training, and testing d
 #### Poly Vector
 For the poly vector machine I tested both the split in training, and testing data, as well as the number of components that it was using.  Like many of the other machine learning models I found that as you increase the percentage of data that was used in the training the accuracy went up.  I also found the same with the number of components where as you increase the number of components, the accuracy of the algorithm would increase.  The maximum accuracy I was able to achieve with the poly vector machine was 88.3 percent.
 
-## Conclusionma
+## Conclusion
 In conclusion, it seems that the k-nearest neighbors algorithm did the best with this dataset with an accuracy of 95 percent.  I am still not pleased with this accuracy, and if I were to use this in the real world I might write a custom algorithm, or experiment with nueral networks in order to increase this accuracy.  I did however accomplish my goal with this project which was to better understand numpy, matplotlib, and sklearn and their limitations.  I learned a lot about how the machine learning models provided by sklearn work, as well as some of their limitations.  This knowledge will help me in the future if I choose to develop my own machine learning algorithms.
 
 ## Next Steps
